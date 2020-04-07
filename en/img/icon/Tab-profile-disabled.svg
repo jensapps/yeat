@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 25 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>Tab-profile-disabled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Tab-profile-disabled" transform="translate(1.000000, 0.000000)" stroke="#BF4758" stroke-width="1.575">
+            <g id="tab-profile">
+                <path d="M16.5,14.0625 C16.5,17.68625 13.56125,20.625 9.9375,20.625 C6.31375,20.625 3.375,17.68625 3.375,14.0625 L16.5,14.0625 Z" id="Path"></path>
+                <path d="M16.5,8.4375 C17.535,8.4375 18.3750007,7.5975 18.3750007,6.5625 C18.37625,4.49125 16.6975,2.81125 14.62625,2.81125 C14.1775,2.81125 13.73125,2.89125 13.31125,3.04875 C12.40875,1.185 10.165,0.405 8.30125,1.30875 C7.54125,1.67625 6.92875,2.29 6.56125,3.04875 C4.62125,2.325 2.46125,3.31 1.73625,5.25125 C1.58,5.67 1.5,6.115 1.5,6.5625 C1.5,7.5975 2.34,8.4375 3.375,8.4375 L3.375,14.0625 L16.5,14.0625 L16.5,8.4375 Z" id="Path"></path>
+                <path d="M19.50625,29.0625 C15.40375,23.77625 7.79375,22.81625 2.5075,26.91875 C1.70625,27.54125 0.985,28.26125 0.36375,29.0625" id="Path"></path>
+                <line x1="9.935" y1="24.375" x2="9.935" y2="29.0625" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

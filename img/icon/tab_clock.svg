@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>tab_clock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Tab-clock" stroke="#BF4758" stroke-width="1.875">
+            <g id="tab-clock">
+                <path d="M14,0.875 C21.24875,0.875 27.125,6.75125 27.125,14 C27.125,21.24875 21.24875,27.125 14,27.125 C6.75125,27.125 0.875,21.24875 0.875,14 C0.875,6.75125 6.75125,0.875 14,0.875 Z" id="Path"></path>
+                <path d="M14,12.125 C15.035,12.125 15.875,12.965 15.875,14 C15.875,15.035 15.035,15.875 14,15.875 C12.965,15.875 12.125,15.035 12.125,14 C12.125,12.965 12.965,12.125 14,12.125 Z" id="Path"></path>
+                <line x1="14" y1="12.125" x2="14" y2="5.5625" id="Path"></line>
+                <line x1="15.32625" y1="15.32625" x2="18.6875" y2="18.6875" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
