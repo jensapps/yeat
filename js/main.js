@@ -52,7 +52,6 @@ $(window).on('scroll', function () {
 		$(".header-menu-link").addClass("scrolled-header-menu-link");
 	}
 });
-
 // mainSlider
 function mainSlider() {
 	var BasicSlider = $('.slider-active');
